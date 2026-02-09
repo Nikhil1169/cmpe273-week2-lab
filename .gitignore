@@ -1,0 +1,18 @@
+# Mac system files
+.DS_Store
+
+# Python byte code
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+
+# Testing cache
+.pytest_cache/
+
+# Local configuration
+.vscode/
+.idea/
+.claude/
